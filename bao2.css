@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+}
+div{
+  text-align: center;
+  background-color: lightgray;
+  color :rgb(84, 83, 83);
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  position: relative; top: -20px;
+  max-width: 45%;
+  
+  
+}
+ul li::marker {
+    color: orange;
+    display: flex; align-items: center;
+    margin: 20px 0;
+  }
+  img {
+    max-width: 300%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+text {
+  color:blue; 
+  font-size: 30px;
+}
+

@@ -1,0 +1,27 @@
+body{
+    text-size: 16px;
+    max-width: 300%;
+    height: auto;
+    display: block;
+    margin: 0 21%;
+    align-items: center;
+    font-style: calibri;
+}
+a{
+    text- size:30px;
+}
+b{
+    text:strong;
+    font-weight: bold;
+
+}
+c{
+    color:blue
+}
+button{
+    background-color: blue;
+    color:white;
+}
+ul {
+    list-style-type: square; /* Đổi dấu chấm thành hình vuông */
+}
